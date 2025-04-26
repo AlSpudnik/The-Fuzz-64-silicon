@@ -37,26 +37,18 @@ C4 = 47µF 6.3V (electrolytic)
 <br />
 C5 = 22nF 100V (film)
 <br />
-C6, C8 = 100nF 400V (film)
+C6 = 22µF 6.3V (electrolytic)
 <br />
-C7 = 220µF 16V (electro)
+C8 = 100nF 100V (film)
 <br />
-C9 = 10nF 400V (film)
+C9 = 3.3nF 100V (film)
+
+<b>Transistors JFET</b>
 <br />
-C10 = 240pF 250V (film)
-<br />
-C11 = 22nF 1000V ( film)
-<br />
-C12 = 470nF 630V (film)
-<br />
-C13, C14, C15 = 40µF 400V (electro)
-<br />
-C16 = 1nF 250V (film)
+Q1-Q4 = 2N5457
 
 <b>Diodes</b>
 <br />
-D1 = Bridge Rectifier KBP307
+D1 = 1N5817
 <br />
-D2 = 1N4007 (or another)
-<br />
-D3 = LED
+D2 = LED
