@@ -1,33 +1,21 @@
 ### Parts List:
-<b>Resistors</b>
+<b>Resistors 0.25W</b>
 <br />
-R1 = 10k (0,25W)
+R1 = 4.7k
 <br />
-R2, R15 = 1 MOhm (0,25W)
+R2, R3, R10  = 15k
 <br />
-R3, R13, R16 = 100k (0,5W)
+R4 = 1 megaohm
 <br />
-R4 = 2,7k (0,5W)
+R5, R8, R12, R15 = 300 Ohm
 <br />
-R6 = 150k* (0,25W)
+R6, R7, R13, R14 = 100k
 <br />
-R7, R22  = 220k (0,25W)
+R11 = 47k
 <br />
-R8 = 4,7k (0,25W)
+R16, R19 = 150k
 <br />
-R9 = 100 Ohm (0,5W)
-<br />
-R10 = 910 Ohm (2W)
-<br />
-R11, R12 = 2,2 MOhm (0,5W)
-<br />
-R14 =  15 Ohm (Res Thick Film Array 0.25W)
-<br />
-R17 = 1,5k (0,5W)
-<br />
-R20 = 2,7k (1W) 
-<br />
-R21 = 470 Ohm (0,25W)
+R17 = 24k
 
 <b>Potentiometers</b>
 <br />
