@@ -19,23 +19,23 @@ R17 = 24k
 
 <b>Potentiometers</b>
 <br />
-R5 = A500k (logarithmic)
+R9 = 1 megaohm (logarithmic)
 <br />
-R18 = B50k  (linear)
+R18 = 250k  (linear)
 <br />
-R19 = B250k (linear with push pull switch)
+R20 = 100k (logarithmic)
 
 <b>Capacitors</b>
 <br />
-C1 = 200nF 63V (film or polarized electro)
+C1 = 47µF 16V (electrolytic)
 <br />
-C2 = 1nF 400V (film)
+C2, C7 = 1nF 100V (film)
 <br />
-C3 = 62pF 250V (film or ceramic)
+C3 = 10nF 100V (film)
 <br />
-C4 = 22µF 35V (electro)
+C4 = 47µF 6.3V (electrolytic)
 <br />
-C5 = 47nF 400V (film)
+C5 = 22nF 100V (film)
 <br />
 C6, C8 = 100nF 400V (film)
 <br />
