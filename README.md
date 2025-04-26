@@ -1,6 +1,6 @@
 ## The Fuzz '64 by Al Spudnik
 Learn more:
-[![Fuzz '64](https://mrspudnik.blogspot.com/2025/04/the-fuzz-64-jfet-version.html)
+[![Fuzz '64](https://img.shields.io/badge/Fuzz_'64-blue.svg )](https://mrspudnik.blogspot.com/2025/04/the-fuzz-64-jfet-version.html)
 
 ### Parts List:
 <b>Resistors 0.25W</b>
