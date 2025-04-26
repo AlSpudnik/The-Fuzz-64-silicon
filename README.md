@@ -1,3 +1,7 @@
+## The Fuzz '64 by Al Spudnik
+Learn more:
+[![Fuzz '64](https://mrspudnik.blogspot.com/2025/04/the-fuzz-64-jfet-version.html)
+
 ### Parts List:
 <b>Resistors 0.25W</b>
 <br />
@@ -52,3 +56,9 @@ Q1-Q4 = 2N5457
 D1 = 1N5817
 <br />
 D2 = LED
+
+<b>Switches</b>
+<br />
+S1 - 3PDT stompswitch
+<br />
+S2 - toggle switch DP3T, three-position
