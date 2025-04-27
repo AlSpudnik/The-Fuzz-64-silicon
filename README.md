@@ -9,7 +9,7 @@ Learn more:
 <br />
 R1 = 4.7k
 <br />
-R2, R3, R10  = 15k
+R3, R10  = 15k
 <br />
 R4 = 1 megaohm
 <br />
@@ -19,7 +19,7 @@ R6, R7, R13, R14 = 100k
 <br />
 R11 = 47k
 <br />
-R16, R19 = 150k
+R16, R2 = 150k
 <br />
 R17 = 24k
 
@@ -29,7 +29,7 @@ R9 = 1 megaohm (logarithmic)
 <br />
 R18 = 250k  (linear)
 <br />
-R20 = 100k (logarithmic)
+R19 = 100k (logarithmic)
 
 <b>Capacitors</b>
 <br />
