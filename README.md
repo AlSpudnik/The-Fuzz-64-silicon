@@ -35,9 +35,9 @@ R19 = 100k (logarithmic)
 <br />
 C1 = 47µF 16V (electrolytic)
 <br />
-C2, C7 = 1nF 100V (film)
+C2 = 2.2nF 100V (film)
 <br />
-C3 = 10nF 100V (film)
+C3, C7 = 1nF 100V (film)
 <br />
 C4 = 47µF 6.3V (electrolytic)
 <br />
