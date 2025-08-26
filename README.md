@@ -51,13 +51,12 @@ C9 = 3.3nF 100V (film)
 
 <b>Transistors JFET</b>
 <br />
-Q1-Q4 = 2N5457
+Q1 = 2N5457
+Q2, Q3 = 2N3904
 
 <b>Diodes</b>
 <br />
-D1 = 1N5817
-<br />
-D2 = LED
+D1 = LED
 
 <b>Switches</b>
 <br />
