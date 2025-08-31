@@ -1,6 +1,6 @@
 ## The Fuzz '64 by Al Spudnik
 Learn more:
-[![Fuzz '64](https://img.shields.io/badge/The_Fuzz_'64-blue.svg )](https://mrspudnik.blogspot.com/2025/04/the-fuzz-64-jfet-version.html)
+[![Fuzz '64](https://img.shields.io/badge/The_Fuzz_'64-blue.svg )](https://mrspudnik.blogspot.com/2025/04/the-fuzz-64-cilicon-version.html)
 
 <img src="https://2.bp.blogspot.com/-S2t0P56NnEs/WilvobbiwlI/AAAAAAAADwo/oanxuJ2ZxGoqgR2dK0nlrI3op2SYcNIFACLcBGAs/s320/IMG_20171016_102253.jpg" alt="The Fuzz 64">
 
