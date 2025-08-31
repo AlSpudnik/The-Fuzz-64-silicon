@@ -62,6 +62,7 @@ C10 = 4.7nF 100V (ceramic)
 <b>Transistors</b>
 <br />
 Q1 = 2N5457
+<br />
 Q2, Q3 = 2N3904
 
 <b>Diodes</b>
@@ -73,3 +74,5 @@ D1 = LED
 S1 - 3PDT stompswitch
 <br />
 S2 - toggle switch DP3T, three-position
+<br />
+S3 - toggle switch DPDT, two-position
