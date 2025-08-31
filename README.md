@@ -7,29 +7,35 @@ Learn more:
 ### Parts List:
 <b>Resistors 0.25W</b>
 <br />
-R1 = 4.7k
+R1 = 2.7k
 <br />
-R3, R10  = 15k
+R2 = 10k
 <br />
-R4 = 1 megaohm
+R3, R4 = 2.2 megaohm
 <br />
-R5, R8, R12, R15 = 300 Ohm
+R5 = 5.6k
 <br />
-R6, R7, R13, R14 = 100k
+R7, R8 = 1k
 <br />
-R11 = 47k
+R9, R13 = 1 megaohm
 <br />
-R16, R2 = 150k
+R10 = 33k (22k - for lower distortion levels)
 <br />
-R17 = 24k
+R11, R16 = 68k
+<br />
+R12 = 100k
+<br />
+R14 = 15k
+<br />
+R15 = 24k
 
 <b>Potentiometers</b>
 <br />
-R9 = 1 megaohm (logarithmic)
+R6 = 20k (linear)
 <br />
-R18 = 250k  (linear)
+R17 = 250...300k (linear)
 <br />
-R19 = 100k (logarithmic)
+R18 = 100k (logarithmic)
 
 <b>Capacitors</b>
 <br />
