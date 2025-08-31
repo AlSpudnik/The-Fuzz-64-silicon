@@ -41,21 +41,25 @@ R18 = 100k (logarithmic)
 <br />
 C1 = 47µF 16V (electrolytic)
 <br />
-C2 = 2.2nF 100V (film)
+C2 = 2nF 100V (film)
 <br />
-C3, C7 = 1nF 100V (film)
+C3 = 1nF 100V (film)
 <br />
-C4 = 47µF 6.3V (electrolytic)
+C4 = 47nF 100V (film)
 <br />
-C5 = 22nF 100V (film)
+C5 = 330nF 100V (film)
 <br />
-C6 = 22µF 6.3V (electrolytic)
+C6 = 220pF 100V (ceramic)
 <br />
-C8 = 100nF 100V (film)
+C7 = 100nF 100V (film)
 <br />
-C9 = 3.3nF 100V (film)
+C8 = 10nF 100V (film)
+<br />
+C9 = 1nF 100V (film)
+<br />
+C10 = 4.7nF 100V (ceramic)
 
-<b>Transistors JFET</b>
+<b>Transistors</b>
 <br />
 Q1 = 2N5457
 Q2, Q3 = 2N3904
