@@ -1,4 +1,7 @@
 ## The Fuzz '64 by Al Spudnik
+
+A more advanced version based on the Fuzzrite, using silicon transistors.
+
 Learn more:
 [![Fuzz '64](https://img.shields.io/badge/The_Fuzz_'64-blue.svg )](https://mrspudnik.blogspot.com/2025/08/the-fuzz-64-silicon-version.html)
 
